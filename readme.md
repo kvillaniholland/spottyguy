@@ -12,9 +12,11 @@ SpottyGuy is a tool for managing your Spotify library in ways that are almost ce
 
 1. Run `yarn install`
 2. Create a file called `.env` in the root directory of this repository and fill it out like so:
+   ```
    API_ID=[Your Spotify developer client ID]
    API_SECRET=[Your Spotify developer client secret]
    USER_ID=[Your Spotify user ID]
+   ```
 3. Run `yarn start -h` to see command line options.
 4. Run `yarn start` with the options you want, ex. `yarn start -uye` will update Unplaylisted, Eyes, and Decades.
 
