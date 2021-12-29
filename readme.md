@@ -4,9 +4,9 @@ SpottyGuy is a tool for managing your Spotify library in ways that are almost ce
 
 ## Features
 
--   Unplaylisted: Tracks all your "Liked" songs that you have not put in a playlist yet, and keeps them in a playlist called "Unplaylisted".
--   "Eyes" playlist: Throw stuff you've been meaning to check out in a playlist called "👀", and they will be automatically removed when you "Like" them, or add them to a playlist.
--   Decades: Creates playlists for the past 6 years, and then each decade before that and sorts your music into those playlists. (These don't count towards "Unplaylisted")
+-   **Unplaylisted:** Tracks all your "Liked" songs that you have not put in a playlist yet, and keeps them in a playlist called "Unplaylisted".
+-   **"Eyes" playlist:** Throw stuff you've been meaning to check out in a playlist called "👀", and they will be automatically removed when you "Like" them, or add them to a playlist.
+-   **Decades:** Creates playlists for the past 6 years, and then each decade before that and sorts your music into those playlists. (These don't count towards "Unplaylisted")
 
 ## How to use
 
